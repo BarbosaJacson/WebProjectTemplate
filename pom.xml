@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringBoot</artifactId>
+	<artifactId>WebProjectTemplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBoot</name>
+	<name>WebProjectTemplate</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
