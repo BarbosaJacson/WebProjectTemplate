@@ -1,4 +1,4 @@
-package com.example.SpringBoot;
+package com.example.WebProjectTemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
